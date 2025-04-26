@@ -1,6 +1,6 @@
 ---
 title: "스터디"
-layout: default
+layout: archive
 permalink: /study
 sidebar:
   nav: "sidebar-category"

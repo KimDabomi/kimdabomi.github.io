@@ -1,6 +1,6 @@
 ---
 title: "AWS"
-layout: default
+layout: archive
 permalink: /aws
 sidebar:
   nav: "sidebar-category"

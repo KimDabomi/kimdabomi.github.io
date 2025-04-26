@@ -1,6 +1,6 @@
 ---
 title: "문제풀이"
-layout: default
+layout: archive
 permalink: /codingtest
 sidebar:
   nav: "sidebar-category"

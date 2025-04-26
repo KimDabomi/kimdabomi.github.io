@@ -1,6 +1,6 @@
 ---
 title: "항해"
-layout: default
+layout: archive
 permalink: /hanghae99
 sidebar:
   nav: "sidebar-category"

@@ -1,6 +1,6 @@
 ---
 title: "기타"
-layout: default
+layout: archive
 permalink: /etc
 sidebar:
   nav: "sidebar-category"
