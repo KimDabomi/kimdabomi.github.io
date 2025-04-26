@@ -1,7 +1,7 @@
 ---
-title: "교육"
-layout: archive
-permalink: /study/codingtest
+title: "문제풀이"
+layout: default
+permalink: /codingtest
 ---
 
 

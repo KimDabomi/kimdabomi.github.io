@@ -1,6 +1,6 @@
 ---
 title: "교육"
-layout: archive
+layout: default
 permalink: /education
 ---
 

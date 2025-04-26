@@ -1,6 +1,6 @@
 ---
-title: "교육"
-layout: archive
+title: "기타"
+layout: default
 permalink: /etc
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "교육"
-layout: archive
+title: "스터디"
+layout: default
 permalink: /study
 ---
 

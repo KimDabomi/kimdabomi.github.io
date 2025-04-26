@@ -1,7 +1,7 @@
 ---
-title: "교육"
-layout: archive
-permalink: /study/aws
+title: "AWS"
+layout: default
+permalink: /aws
 ---
 
 

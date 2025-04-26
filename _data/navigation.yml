@@ -5,17 +5,15 @@ main:
 sidebar-category:
   - title: "Categories"
     children:
-      - title: "Education"
+      - title: "교육"
         url: "/education"
-        children:
-          - title: "항해99"
-            url:  "/hanghae99"
-      - title: "Study"
+      - title: "항해99"
+        url:  "/hanghae99"
+      - title: "스터디"
         url:  "/study"
-        children: 
-          - title: "AWS"
-            url:  "/aws"
-          - title: "문제풀이"
-            url:  "/codingtest"
+      - title: "AWS"
+        url:  "/aws"
+      - title: "문제풀이"
+        url:  "/codingtest"
       - title: "기타"
         url:  "/etc"

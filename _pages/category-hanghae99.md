@@ -1,7 +1,7 @@
 ---
-title: "교육"
-layout: archive
-permalink: /education/hanghae99
+title: "항해"
+layout: default
+permalink: /hanghae99
 ---
 
 
