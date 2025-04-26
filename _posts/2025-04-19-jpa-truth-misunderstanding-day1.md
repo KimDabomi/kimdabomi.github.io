@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "[Day 1] JPA의 사실과 오해 4기"
+categories:
+  - education
 ---
 > 빨리 만드는 것보다 유지보수성이 더 중요하다. <br />
 > JPA는 설계를 해결해주는 것이 아니다. <br />
