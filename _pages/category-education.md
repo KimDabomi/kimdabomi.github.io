@@ -1,6 +1,6 @@
 ---
 title: "교육"
-layout: default
+layout: archive
 permalink: /education
 sidebar:
   nav: "sidebar-category"
