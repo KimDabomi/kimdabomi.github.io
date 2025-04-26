@@ -1,5 +1,6 @@
 ---
 title: "문제풀이"
+author_profile: true
 layout: archive
 permalink: /codingtest
 sidebar:

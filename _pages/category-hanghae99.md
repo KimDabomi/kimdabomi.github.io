@@ -1,5 +1,6 @@
 ---
 title: "항해"
+author_profile: true
 layout: archive
 permalink: /hanghae99
 sidebar:

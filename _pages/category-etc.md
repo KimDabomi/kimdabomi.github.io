@@ -1,5 +1,6 @@
 ---
 title: "기타"
+author_profile: true
 layout: archive
 permalink: /etc
 sidebar:

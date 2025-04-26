@@ -1,5 +1,6 @@
 ---
 title: "AWS"
+author_profile: true
 layout: archive
 permalink: /aws
 sidebar:

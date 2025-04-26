@@ -1,5 +1,6 @@
 ---
 title: "스터디"
+author_profile: true
 layout: archive
 permalink: /study
 sidebar:

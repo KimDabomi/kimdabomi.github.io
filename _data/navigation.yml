@@ -1,7 +1,4 @@
 # main links
-main:
-  - title: "Github"
-    url: "https://github.com/KimDabomi"
 sidebar-category:
   - title: "Categories"
     children:

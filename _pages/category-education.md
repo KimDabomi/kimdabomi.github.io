@@ -1,5 +1,6 @@
 ---
 title: "교육"
+author_profile: true
 layout: archive
 permalink: /education
 sidebar:
