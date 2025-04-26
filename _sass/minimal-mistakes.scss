@@ -35,3 +35,19 @@
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
+
+@media (min-width: 80em) {
+    html {
+        font-size: 16px;
+    }
+}
+@media (min-width: 64em) {
+    html {
+        font-size: 16px;
+    }
+}
+@media (min-width: 48em) {
+    html {
+        font-size: 16px;
+    }
+}
