@@ -16,6 +16,6 @@ sidebar-category:
           - title: "AWS"
             url:  "/aws"
           - title: "문제풀이"
-            url:  "/coding-test"
+            url:  "/codingtest"
       - title: "기타"
         url:  "/etc"
