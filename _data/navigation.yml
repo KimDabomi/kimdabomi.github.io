@@ -2,7 +2,7 @@
 main:
   - title: "Github"
     url: "https://github.com/KimDabomi"
-  sidebar-category:
+  - sidebar-category:
     - title: "교육"
       children:
         - title: "교육"
