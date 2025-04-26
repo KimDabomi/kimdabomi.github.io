@@ -3,7 +3,7 @@ title: "문제풀이"
 layout: default
 permalink: /codingtest
 sidebar:
-  - nav: "sidebar-category"
+  nav: "sidebar-category"
 ---
 
 

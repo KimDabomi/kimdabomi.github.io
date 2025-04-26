@@ -3,7 +3,7 @@ title: "교육"
 layout: default
 permalink: /education
 sidebar:
-  - nav: "sidebar-category"
+  nav: "sidebar-category"
 ---
 
 

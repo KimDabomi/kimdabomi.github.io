@@ -3,7 +3,7 @@ title: "AWS"
 layout: default
 permalink: /aws
 sidebar:
-  - nav: "sidebar-category"
+  nav: "sidebar-category"
 ---
 
 
