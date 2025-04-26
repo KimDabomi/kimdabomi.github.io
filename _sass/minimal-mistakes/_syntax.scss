@@ -6,7 +6,7 @@ div.highlighter-rouge,
 figure.highlight {
   position: relative;
   margin-bottom: 1em;
-  background: #f0f0f0; 
+  background: #f9f9f9;
   color: #333333;
   font-family: $monospace;
   font-size: $type-size-6;
@@ -62,7 +62,7 @@ figure.highlight {
 }
 
 .highlight .hll {
-  background-color: $base06;
+  background-color: #f9f9f9;
 }
 .highlight {
   .c {
@@ -75,7 +75,7 @@ figure.highlight {
   }
   .k {
     /* Keyword */
-    color: $base0e;
+    color: #001fcf;
   }
   .l {
     /* Literal */
@@ -83,7 +83,7 @@ figure.highlight {
   }
   .n {
     /* Name */
-    color: #333;
+    color: #9d9d9d;
   }
   .o {
     /* Operator */
@@ -91,7 +91,7 @@ figure.highlight {
   }
   .p {
     /* Punctuation */
-    color: $base05;
+    color: #535353;
   }
   .cm {
     /* Comment.Multiline */
@@ -146,7 +146,7 @@ figure.highlight {
   }
   .kd {
     /* Keyword.Declaration */
-    color: $base0e;
+    color: #ff5ce9;
   }
   .kn {
     /* Keyword.Namespace */
@@ -174,7 +174,7 @@ figure.highlight {
   }
   .s {
     /* Literal.String */
-    color: $base0b;
+    color: rgb(0, 120, 0);
   }
   .na {
     /* Name.Attribute */
@@ -186,7 +186,7 @@ figure.highlight {
   }
   .nc {
     /* Name.Class */
-    color: $base0a;
+    color: #535353;
   }
   .no {
     /* Name.Constant */
@@ -206,7 +206,7 @@ figure.highlight {
   }
   .nf {
     /* Name.Function */
-    color: $base0d;
+    color: #02b08a;
   }
   .nl {
     /* Name.Label */
@@ -214,7 +214,7 @@ figure.highlight {
   }
   .nn {
     /* Name.Namespace */
-    color: $base0a;
+    color: #535353;
   }
   .nx {
     /* Name.Other */
@@ -222,7 +222,7 @@ figure.highlight {
   }
   .py {
     /* Name.Property */
-    color: $base05;
+    color: #535353  ;
   }
   .nt {
     /* Name.Tag */
