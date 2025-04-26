@@ -2,6 +2,8 @@
 title: "스터디"
 layout: default
 permalink: /study
+sidebar:
+  nav: "sidebar-category"
 ---
 
 
