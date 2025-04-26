@@ -3,7 +3,7 @@ title: "항해"
 layout: default
 permalink: /hanghae99
 sidebar:
-  nav: "sidebar-category"
+  - nav: "sidebar-category"
 ---
 
 
