@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[IT CookBook, 프로젝트로 배우는 데이터베이스 설계] 9 . 논리적 설계 심화"
+title: "[IT CookBook, 프로젝트로 배우는 데이터베이스 설계] 9. 논리적 설계 심화"
 categories:
   - study
 sidebar:
