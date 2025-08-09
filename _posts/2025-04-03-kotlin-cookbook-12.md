@@ -2,7 +2,7 @@
 layout: single
 title: "[코틀린 쿡북] 12장 스프림 프레임워크"
 categories:
-  - book
+  - personal
 sidebar:
   nav: "sidebar-category"
 ---

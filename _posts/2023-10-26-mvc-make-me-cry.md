@@ -2,7 +2,7 @@
 layout: single
 title: "MVC... 네가 뭔데 날 울려"
 categories:
-  - study
+  - personal
 sidebar:
   nav: "sidebar-category"
 ---

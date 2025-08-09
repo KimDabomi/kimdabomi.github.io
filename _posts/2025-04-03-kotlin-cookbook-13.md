@@ -2,7 +2,7 @@
 layout: single
 title: "[코틀린 쿡북] 13장 코루틴과 구조적 동시성"
 categories:
-  - book
+  - personal
 sidebar:
   nav: "sidebar-category"
 ---

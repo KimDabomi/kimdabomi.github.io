@@ -2,7 +2,7 @@
 layout: single
 title: "대량 회원가입 처리, 코루틴과 병렬 처리를 선택한 이유"
 categories:
-  - study
+  - personal
 sidebar:
   nav: "sidebar-category"
 ---

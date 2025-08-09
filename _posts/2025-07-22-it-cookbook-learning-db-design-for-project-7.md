@@ -2,7 +2,7 @@
 layout: single
 title: "[IT CookBook, 프로젝트로 배우는 데이터베이스 설계] 7. 관계 데이터 모델"
 categories:
-  - book
+  - personal
 sidebar:
   nav: "sidebar-category"
 ---

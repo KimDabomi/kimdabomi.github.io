@@ -2,7 +2,7 @@
 layout: single
 title: "[코틀린 쿡북] 5장 컬렉션"
 categories:
-  - book
+  - personal
 sidebar:
   nav: "sidebar-category"
 ---

@@ -2,7 +2,7 @@
 layout: single
 title: "[코틀린 쿡북] 8장 코틀린 대리자"
 categories:
-  - book
+  - personal
 sidebar:
   nav: "sidebar-category"
 ---

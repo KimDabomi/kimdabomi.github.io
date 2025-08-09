@@ -2,7 +2,7 @@
 layout: single
 title: "[IT CookBook, 프로젝트로 배우는 데이터베이스 설계] 2. 데이터베이스 설계 개요"
 categories:
-  - book
+  - personal
 sidebar:
   nav: "sidebar-category"
 ---

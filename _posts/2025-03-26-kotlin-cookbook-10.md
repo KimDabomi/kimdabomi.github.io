@@ -2,7 +2,7 @@
 layout: single
 title: "[코틀린 쿡북] 10장 입력/출력"
 categories:
-  - book
+  - personal
 sidebar:
   nav: "sidebar-category"
 ---

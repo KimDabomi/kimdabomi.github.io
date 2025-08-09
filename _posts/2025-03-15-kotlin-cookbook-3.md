@@ -2,7 +2,7 @@
 layout: single
 title: "[코틀린 쿡북] 3장 코틀린 객체 지향 프로그래밍"
 categories:
-  - book
+  - personal
 sidebar:
   nav: "sidebar-category"
 ---

@@ -2,7 +2,7 @@
 layout: single
 title: "[코틀린 쿡북] 6장 시퀀스"
 categories:
-  - book
+  - personal
 sidebar:
   nav: "sidebar-category"
 ---
