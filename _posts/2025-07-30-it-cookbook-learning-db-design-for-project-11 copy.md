@@ -2,7 +2,7 @@
 layout: single
 title: "[IT CookBook, 프로젝트로 배우는 데이터베이스 설계] 11. 물리적 설계"
 categories:
-  - study
+  - book
 sidebar:
   nav: "sidebar-category"
 ---

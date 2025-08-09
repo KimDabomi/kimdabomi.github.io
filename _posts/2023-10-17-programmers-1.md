@@ -2,7 +2,7 @@
 layout: single
 title: "[프로그래머스] Lv.0 - 주사위 게임 3"
 categories:
-  - study
+  - codingtest
 sidebar:
   nav: "sidebar-category"
 ---

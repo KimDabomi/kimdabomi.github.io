@@ -2,7 +2,7 @@
 layout: single
 title: "[프로그래머스] Lv.1 - 문자열 내 마음대로 정렬하기"
 categories:
-  - study
+  - codingtest
 sidebar:
   nav: "sidebar-category"
 ---

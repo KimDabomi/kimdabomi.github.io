@@ -2,7 +2,7 @@
 layout: single
 title: "[코틀린 쿡북] 7장 영역 함수"
 categories:
-  - study
+  - book
 sidebar:
   nav: "sidebar-category"
 ---

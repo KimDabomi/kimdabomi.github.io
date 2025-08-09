@@ -2,7 +2,7 @@
 layout: single
 title: "[프로그래머스] Lv.2 - 이진 변환 반복하기"
 categories:
-  - study
+  - codingtest
 sidebar:
   nav: "sidebar-category"
 ---

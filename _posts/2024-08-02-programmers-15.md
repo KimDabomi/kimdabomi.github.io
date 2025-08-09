@@ -2,7 +2,7 @@
 layout: single
 title: "[프로그래머스] Lv.2 - N개의 최소공배수"
 categories:
-  - study
+  - codingtest
 sidebar:
   nav: "sidebar-category"
 ---

@@ -2,7 +2,7 @@
 layout: single
 title: "[IT CookBook, 데이터베이스 for Beginner] 데이터베이스 모델링의 이해"
 categories:
-  - study
+  - book
 sidebar:
   nav: "sidebar-category"
 ---

@@ -2,7 +2,7 @@
 layout: single
 title: "[코틀린 쿡북] 4장 함수형 프로그래밍"
 categories:
-  - study
+  - book
 sidebar:
   nav: "sidebar-category"
 ---

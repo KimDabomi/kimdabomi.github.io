@@ -2,7 +2,7 @@
 layout: single
 title: "[코틀린 쿡북] 11장 그 밖의 코틀린 기능"
 categories:
-  - study
+  - book
 sidebar:
   nav: "sidebar-category"
 ---

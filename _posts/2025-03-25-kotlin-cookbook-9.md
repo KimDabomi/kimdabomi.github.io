@@ -2,7 +2,7 @@
 layout: single
 title: "[코틀린 쿡북] 9장 테스트"
 categories:
-  - study
+  - book
 sidebar:
   nav: "sidebar-category"
 ---

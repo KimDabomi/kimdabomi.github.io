@@ -2,7 +2,7 @@
 layout: single
 title: "[프로그래머스] Lv.2 - 다음 큰 숫자"
 categories:
-  - study
+  - codingtest
 sidebar:
   nav: "sidebar-category"
 ---

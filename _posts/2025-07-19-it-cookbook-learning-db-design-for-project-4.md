@@ -2,7 +2,7 @@
 layout: single
 title: "[IT CookBook, 프로젝트로 배우는 데이터베이스 설계] 4. ER 모델"
 categories:
-  - study
+  - book
 sidebar:
   nav: "sidebar-category"
 ---

@@ -2,7 +2,7 @@
 layout: single
 title: "[IT CookBook, 프로젝트로 배우는 데이터베이스 설계] 3. 요구 수집 및 분석"
 categories:
-  - study
+  - book
 sidebar:
   nav: "sidebar-category"
 ---
