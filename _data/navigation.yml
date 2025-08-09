@@ -12,5 +12,7 @@ sidebar-category:
         url:  "/aws"
       - title: "문제풀이"
         url:  "/codingtest"
+      - title: "개인공부"
+        url:  "/personal"
       - title: "기타"
         url:  "/etc"
