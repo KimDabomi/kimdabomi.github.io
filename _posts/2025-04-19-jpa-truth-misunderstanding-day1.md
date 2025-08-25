@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Day 2] JPA의 사실과 오해 4기"
+title: "[Day 1] JPA의 사실과 오해 4기"
 categories:
   - education
 sidebar:
